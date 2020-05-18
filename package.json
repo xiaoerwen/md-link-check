@@ -1,0 +1,13 @@
+{
+  "name": "md-link-check",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "check": "node src/check-link"
+  },
+  "author": "xiaoerwen",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
